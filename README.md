@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/8gPRGAIg)
 # Práctica 4.2: Programación orientada a objetos I
 
 Apóyate en los siguientes recursos para realizar la práctica:
@@ -12,26 +13,25 @@ Apóyate en los siguientes recursos para realizar la práctica:
 
 ## Identificación de la Actividad
 
-- **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
-- **Fecha de Creación:** [Fecha de creación]
-- **Fecha de Entrega:** [Fecha de entrega]
+- **ID de la Actividad:** 4.2: Ejercicios POO I
+- **Módulo:** PROG
+- **Unidad de Trabajo:** Tema 4
+- **Fecha de Creación:** 16/01/25
+- **Fecha de Entrega:** 19/01/25
 - **Alumno(s):**
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
+  - **Nombre y Apellidos:** Mario Montes Bermúdez
+  - **Correo electrónico:** mmonber326@g.educaand.es
+  - **Iniciales del Alumno/Grupo:** MMB
 
 ## Descripción de la Actividad
 
-[Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
-
+La actividad consiste en realizar los ejercicios propuestos de programación orientada a objetos haciendo uso del lenguaje de programación Kotlin.
 ## Instrucciones de Compilación y Ejecución
 
 1. **Requisitos Previos:**
 
-   - [Lenguaje de programación y versión]
-   - [Entorno de desarrollo o dependencias necesarias]
+   - Kotlin
+   - IntellijIdea
 2. **Pasos para Compilar el Código:**
 
    ```bash
